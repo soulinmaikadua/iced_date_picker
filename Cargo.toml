@@ -1,7 +1,12 @@
 [package]
-name = "date_picker"
+name = "iced_date_picker"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/soulinmaikadua/iced_date_picker"
+readme = "README.md"
+keywords = ["iced", "gui", "date-picker", "widget"]
+categories = ["gui"]
 
 [dependencies]
 iced = "0.14"
